@@ -2,6 +2,6 @@
 
 Generate and save wallpaper images in 4K resolution. Images are generated client-side using the HTML <canvas> element and Javascript.
 
-Saving wallpapers on mobile, and share links courtesy of @sixelasacul.
+See here: https://wallpaper.artivain.com
 
-Demo: [https://tanck.nl/wallpaper/](https://tanck.nl/wallpaper/)
+For the API version: https://github.com/Artivain/wallpaper-generator
